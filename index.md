@@ -1,32 +1,22 @@
 ## Portfolio
+A repository of data analyst projects demonstrating skills I have learned so far. These include Data Cleaning, Data Analysis, and Data Visualization using Python, and Querying a Database with SQL (Postgres). The projects are presented in Jupyter Notebook (.ipynb) files.
 
 ---
 
-### Category Name 1 
+### Data Cleaning, Analysis, Visualization, Python, SQL
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Please Stay Green Grass! - Victoria, MN Rainfall Totals](https://github.com/jsamstad/VictoriaMNRainfall)
+<img src="images/lawncare.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Who Owns What? - MN Real Estate](https://github.com/jsamstad/TCRealEstate)
+<img src="images/mnrealestate.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[How to Grow a Bikeshare Company? - Cyclistic - Google Data Analytics Captsone Project](https://github.com/jsamstad/Google-Case-Study)
+<img src="images/bikeshare.jpg?raw=true"/>
 
 ---
-
 
 
 
