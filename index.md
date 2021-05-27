@@ -12,12 +12,12 @@ A repository of data analyst projects demonstrating skills I have learned so far
 ---
 [Who Owns What? - MN Real Estate](https://github.com/jsamstad/TCRealEstate)
 <br>
-<img src="images/mnrealestate.jpg?raw=true"/>
+<img src="images/mnrealestate.JPG?raw=true"/>
 
 ---
 [How to Grow a Bikeshare Company? - Cyclistic - Google Data Analytics Captsone Project](https://github.com/jsamstad/Google-Case-Study)
 <br>
-<img src="images/bikeshare.jpg?raw=true"/>
+<img src="images/bikeshare.JPG?raw=true"/>
 
 ---
 
