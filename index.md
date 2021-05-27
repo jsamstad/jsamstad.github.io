@@ -6,7 +6,7 @@ A repository of data analyst projects demonstrating skills I have learned so far
 ### Data Cleaning, Analysis, Visualization, Python, SQL
 
 [Please Stay Green Grass! - Victoria, MN Rainfall Totals](https://github.com/jsamstad/VictoriaMNRainfall)
-<img src="images/lawncare.jpg?raw=true"/>
+<img src="images/noaa.jpg?raw=true"/>
 
 ---
 [Who Owns What? - MN Real Estate](https://github.com/jsamstad/TCRealEstate)
