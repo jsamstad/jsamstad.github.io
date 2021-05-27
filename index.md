@@ -17,7 +17,7 @@ A repository of data analyst projects demonstrating skills I have learned so far
 <img src="images/mnrealestate.JPG?raw=true"/>
 
 ---
-[How to Grow a Bikeshare Company? - Cyclistic - Google Data Analytics Captsone Project](https://github.com/jsamstad/Google-Case-Study)
+[How to Grow a Bikeshare Company?  Google Data Analytics Captsone Project](https://github.com/jsamstad/Google-Case-Study)
 \
 \
 <img src="images/bikeshare.JPG?raw=true"/>
