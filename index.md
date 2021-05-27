@@ -6,17 +6,20 @@ A repository of data analyst projects demonstrating skills I have learned so far
 ### Data Cleaning, Analysis, Visualization, Python, SQL
 
 [Please Stay Green Grass! - Victoria, MN Rainfall Totals](https://github.com/jsamstad/VictoriaMNRainfall)
-<br>
+\
+\
 <img src="images/noaa.jpg?raw=true"/>
 
 ---
 [Who Owns What? - MN Real Estate](https://github.com/jsamstad/TCRealEstate)
-<br>
+\
+\
 <img src="images/mnrealestate.JPG?raw=true"/>
 
 ---
 [How to Grow a Bikeshare Company? - Cyclistic - Google Data Analytics Captsone Project](https://github.com/jsamstad/Google-Case-Study)
-<br>
+\
+\
 <img src="images/bikeshare.JPG?raw=true"/>
 
 ---
