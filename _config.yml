@@ -4,6 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Recovering public accountant 
   <br><br>
   <br><br>
-  <a href="a href="https://www.linkedin.com/in/johnsamstad/">View My LinkedIn Profile</a> 
+
+<a href="a href="https://www.linkedin.com/in/johnsamstad/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
