@@ -1,5 +1,5 @@
 ## Portfolio
-A repository of data analyst projects demonstrating skills I have learned so far. These include Data Cleaning, Data Analysis, and Data Visualization using Python, and Querying a Database with SQL (Postgres). The projects are presented in Jupyter Notebook (.ipynb) files.
+A repository of data analyst projects demonstrating skills I have learned so far. These include Data Cleaning, Data Analysis, Data Visualization using Python, and Querying a Database with SQL (Postgres). The projects are presented in Jupyter Notebook (.ipynb) files.
 
 ---
 
