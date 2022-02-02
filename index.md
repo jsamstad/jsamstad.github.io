@@ -8,7 +8,7 @@ A repository of data analyst projects demonstrating skills I have learned so far
 [Power BI - Superstore](https://photos.app.goo.gl/6D6mf5U7NebL4pDv9)
 \
 \
-<img src="images/screenshot.JPG?raw=true"/>
+<img src="images/screenshot.PNG?raw=true"/>
 
 ---
 [How to Grow a Bikeshare Company?  Google Data Analytics Captsone Project](https://github.com/jsamstad/Google-Case-Study)
