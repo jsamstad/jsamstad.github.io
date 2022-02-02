@@ -1,7 +1,7 @@
 ## Portfolio
 A repository of data analyst projects demonstrating skills I have learned so far. These include Data Cleaning, Data Analysis, Data Visualization, and Querying a Database with SQL (Postgres). The projects are presented in Jupyter Notebook (.ipynb) files.
 
-You can find two Power BI dashboards [here](https://github.com/jsamstad/powerbi/Dashboard.pbix) and [here](https://github.com/jsamstad/powerbi/Dashboard - KPI.pbix)
+You can find two Power BI dashboards [here](https://github.com/jsamstad/powerbi/Dashboard.pbix) and [here](https://github.com/jsamstad/powerbi/DashboardKPI.pbix)
 You can find my Tableau Public [here](https://public.tableau.com/app/profile/john.samstad)
 
 ---
