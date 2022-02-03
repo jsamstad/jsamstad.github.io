@@ -8,7 +8,7 @@ You can find my Tableau Public [here](https://public.tableau.com/app/profile/joh
 
 ### Data Cleaning, Analysis, Visualization, Python, SQL
 
-[Power BI - Superstore](https://photos.app.goo.gl/6D6mf5U7NebL4pDv9)
+[My Viz Gallery](https://photos.app.goo.gl/6D6mf5U7NebL4pDv9)
 \
 \
 <img src="images/Screenshot.jpg?raw=true"/>
